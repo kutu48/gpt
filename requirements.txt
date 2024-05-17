@@ -1,0 +1,4 @@
+pyrogram==2.0.106
+aiohttp==3.8.4
+fake_useragent==1.1.0
+loguru==0.6.0
